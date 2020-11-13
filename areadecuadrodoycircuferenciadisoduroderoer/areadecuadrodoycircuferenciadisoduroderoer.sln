@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "areadecuadrodoycircuferenciadisoduroderoer", "areadecuadrodoycircuferenciadisoduroderoer.vbproj", "{FDA06463-7F61-4969-B7E3-92D9E0937DA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA06463-7F61-4969-B7E3-92D9E0937DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA06463-7F61-4969-B7E3-92D9E0937DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA06463-7F61-4969-B7E3-92D9E0937DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA06463-7F61-4969-B7E3-92D9E0937DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F94E5608-B896-42FE-A312-E57156B50FD9}
+	EndGlobalSection
+EndGlobal
