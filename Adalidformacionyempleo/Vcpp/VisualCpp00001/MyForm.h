@@ -62,6 +62,7 @@ namespace VisualCpp00001 {
 		}
 #pragma endregion
 	private: System::Void MyForm_Load(System::Object^ sender, System::EventArgs^ e) {
+	
 	}
 	};
 }
